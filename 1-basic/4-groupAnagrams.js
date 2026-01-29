@@ -1,5 +1,5 @@
 //groups anagrams
-//['eat','ate','got','get']
+//['eat','ate','got','get']=[['eat','ate'],['got'],['get']]
 
 function gAna(arr) {
   let map = {};

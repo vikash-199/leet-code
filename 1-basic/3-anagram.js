@@ -1,4 +1,8 @@
 // taking two strings and they have save numbes of char return true
+/*
+s='vikash'
+t='shvika'
+*/
 
 function an(str1, str2) {
   let map = {};
